@@ -2,9 +2,6 @@
 
 Run a command as another user.
 
-Support:
-- UPN Format
-
 # Menu
 
 ```
